@@ -1,6 +1,6 @@
 {
   "name": "literatejs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Literate programming for JavaScript",
   "main": "index.js",
   "bin": "./src/cli.js",

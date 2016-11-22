@@ -9,7 +9,7 @@ function main() {
   var conversion
 
   parser = new argparse.ArgumentParser({
-    version: '0.0.1',
+    version: '0.0.2',
     addHelp: true,
     description: 'Extract code blocks from markdown documents'
   })

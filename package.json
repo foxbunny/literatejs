@@ -1,0 +1,28 @@
+{
+  "name": "literatejs",
+  "version": "0.0.1",
+  "description": "Literate programming for JavaScript",
+  "main": "index.js",
+  "bin": "./src/cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foxbunny/literatejs.git"
+  },
+  "keywords": [
+    "literate",
+    "programming"
+  ],
+  "author": "Hajime Yamasaki Vukelic <hayavuk@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/foxbunny/literatejs/issues"
+  },
+  "homepage": "https://github.com/foxbunny/literatejs#readme",
+  "dependencies": {
+    "argparse": "^1.0.9",
+    "remarkable": "^1.7.1"
+  }
+}

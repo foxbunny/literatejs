@@ -30,7 +30,7 @@ This outputs the extracted code to console. If you want to save the file run:
 
     literatejs FILENAME -o OUTPUT
 
-For example, this README file contains the following line code block:
+For example, this README file contains the following code block:
 
 ```
 console.log('test')
@@ -49,7 +49,7 @@ You will get:
 LiterateJS exposes a simple public API. To use the API, require the
 `literatejs` module:
 
-    var literatejs = require('literate')
+    var literatejs = require('literatejs')
 
 ### literatejs.convert(souce)
 

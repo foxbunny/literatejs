@@ -51,7 +51,7 @@ LiterateJS exposes a simple public API. To use the API, require the
 
     var literatejs = require('literatejs')
 
-### literatejs.convert(souce)
+### literatejs.convert(source)
 
 This function takes a markdown source, and returns the extracted code.
 
